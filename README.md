@@ -1,2 +1,2 @@
 # jenkins
-jenkins-pipelines
+jenkins-pipelines-for-nodejs
